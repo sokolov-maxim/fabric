@@ -1,0 +1,3 @@
+[submodule "learn-chaincode"]
+	path = learn-chaincode
+	url = https://github.com/sokolov-maxim/learn-chaincode.git
